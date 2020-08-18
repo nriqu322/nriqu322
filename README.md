@@ -1,7 +1,12 @@
 ### Hi, I'm a remote Full-Stack Developer looking for new opprtunities 👋
 <img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230">
 
+![Twitter Badge](https://img.shields.io/twitter/url?label=nriqu322&style=social&url=https%3A%2F%2Ftwitter.com%2Fnriqu322)
+
 #### About me
+
+#### 📫 How to reach me:
+
 
 <!--
 **nriqu322/nriqu322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
