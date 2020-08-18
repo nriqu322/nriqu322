@@ -1,8 +1,9 @@
 ## Hi, I'm a remote Full-Stack Developer looking for new opprtunities 👋
 <img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230">
 
+[![JavaScript](https://img.shields.io/twitter/url?color=grey&label=JavaScript&logo=JavaScript&style=plastic&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FJavaScript)](#) | Ruby | RoR | HTML5 & CSS3
+
 ### About me
-![JavaScript](https://img.shields.io/twitter/url?color=grey&label=JavaScript&logo=JavaScript&style=plastic&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FJavaScript) | Ruby | RoR | HTML5 & CSS3
 
 I have a background in industrial engineering and data analysis working for Sanofi and Unipharm companies helping them to improve the adoption rate and delivery time of new reports while increasing the quality of the information.
 
