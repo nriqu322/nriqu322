@@ -5,9 +5,9 @@
 ![React](https://img.shields.io/twitter/url?color=grey&label=React&logo=React&style=plastic&url=https%3A%2F%2Fes.reactjs.org%2F)
 ![Redux](https://img.shields.io/twitter/url?color=grey&label=Redux&logo=Redux&style=plastic&url=https%3A%2F%2Fes.redux.js.org%2F)
 ![Ruby](https://img.shields.io/twitter/url?color=grey&label=Ruby&logo=Ruby&style=plastic&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FRuby)
-![RoR]()
-![HTML5]()
-![CSS3]()
+![RoR](https://img.shields.io/twitter/url?color=grey&label=Rails&logo=Ruby%20on%20Rails&style=plastic&url=https%3A%2F%2Frubyonrails.org%2F)
+![HTML5](https://img.shields.io/twitter/url?color=grey&label=HTML5&logo=HTML5&style=plastic&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FHTML5)
+![CSS3](https://img.shields.io/twitter/url?color=grey&label=CSS3&logo=CSS3&style=plastic&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FHoja_de_estilos_en_cascada)
 
 ### About me
 
