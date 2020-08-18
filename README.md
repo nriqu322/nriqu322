@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Luis Saavedra 👋
+
+#### I'm a remote Full-Stack Developer looking for new opprtunities
 
 <!--
 **nriqu322/nriqu322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
