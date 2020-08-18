@@ -9,7 +9,7 @@
 ![HTML5](https://img.shields.io/twitter/url?color=grey&label=HTML5&logo=HTML5&style=plastic&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FHTML5)
 ![CSS3](https://img.shields.io/twitter/url?color=grey&label=CSS3&logo=CSS3&style=plastic&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FHoja_de_estilos_en_cascada)
 
-### About me
+### 🔭 About me
 
 I have a background in industrial engineering and data analysis working for Sanofi and Unipharm companies helping them to improve the adoption rate and delivery time of new reports while increasing the quality of the information.
 
