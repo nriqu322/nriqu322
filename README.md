@@ -1,7 +1,13 @@
 ## Hi, I'm a remote Full-Stack Developer looking for new opprtunities 👋
 <img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230">
 
-[![JavaScript](https://img.shields.io/twitter/url?color=grey&label=JavaScript&logo=JavaScript&style=plastic&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FJavaScript)](#) | Ruby | RoR | HTML5 & CSS3
+![JavaScript](https://img.shields.io/twitter/url?color=grey&label=JavaScript&logo=JavaScript&style=plastic&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FJavaScript)
+![React](https://img.shields.io/twitter/url?color=grey&label=React&logo=React&style=plastic&url=https%3A%2F%2Fes.reactjs.org%2F)
+![Redux](https://img.shields.io/twitter/url?color=grey&label=Redux&logo=Redux&style=plastic&url=https%3A%2F%2Fes.redux.js.org%2F)
+![Ruby](https://img.shields.io/twitter/url?color=grey&label=Ruby&logo=Ruby&style=plastic&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FRuby)
+![RoR]()
+![HTML5]()
+![CSS3]()
 
 ### About me
 
