@@ -1,6 +1,7 @@
-### Hi, I'm Luis Saavedra 👋
+### Hi, I'm a remote Full-Stack Developer looking for new opprtunities 👋
+<img align='right' src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="230">
 
-#### I'm a remote Full-Stack Developer looking for new opprtunities
+#### About me
 
 <!--
 **nriqu322/nriqu322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
